@@ -6,24 +6,24 @@ This project implements a supervised Machine Learning model using a Decision Tre
 - Accuracy: 81.7%
 - Algorithm: Decision Tree Classifier
 
-## 🧠 Features Used
+## Features Used
 - Age
 - Education
 - Workclass
 - Occupation
 - Hours per week
 
-## ⚙️ Technologies
+##  Technologies
 - Python
 - Pandas
 - Scikit-learn
 
-## 🚀 How to Run
+##  How to Run
 1. Install dependencies:
    pip install pandas scikit-learn
 
 2. Run the model:
    python salary_model.py
 
-## 📌 Conclusion
+##  Conclusion
 The model successfully predicts salary categories with good accuracy and demonstrates how machine learning can support decision-making in human resource management.
