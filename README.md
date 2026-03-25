@@ -3,7 +3,7 @@
 This project implements a supervised Machine Learning model using a Decision Tree Classifier to predict employee salary categories (<=50K or >50K).
 
 ## 📊 Model Performance
-- Accuracy: 81.7%
+- Accuracy: 85.2%
 - Algorithm: Decision Tree Classifier
 
 ## Features Used
